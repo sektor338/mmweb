@@ -8,7 +8,7 @@ import {ExperienceComponent} from "./pages/experience/experience.component";
 
 
 export const routes: Routes = [
-    {path:"aboutme", component:AboutmeComponent},
+    {path:"about-me", component:AboutmeComponent},
     {path:"services", component:ServicesComponent},
     {path:"projects", component:ProjectsComponent},
     {path:"contact", component:ContactComponent},
